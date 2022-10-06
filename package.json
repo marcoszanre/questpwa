@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://marcoszanre.github.io/pwa-quest/build",
+  "homepage": "https://marcoszanre.github.io/questpwa",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
