@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/questpwa/static/css/main.073c9b0a.css",
+    "main.js": "/questpwa/static/js/main.c3329aa0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/questpwa/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/questpwa/service-worker.js",
+    "static/media/logo.svg": "/questpwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/questpwa/index.html",
+    "main.073c9b0a.css.map": "/questpwa/static/css/main.073c9b0a.css.map",
+    "main.c3329aa0.js.map": "/questpwa/static/js/main.c3329aa0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/questpwa/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c3329aa0.js"
+  ]
+}
